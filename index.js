@@ -1,3 +1,3 @@
 import camelcase from "camelcase"
 
-console.log(camelcase('Hello wolrd'))
+console.log(camelcase('Hello wolrd'));
